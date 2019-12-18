@@ -4,3 +4,4 @@ leopard
 turtle
 mewtwo
 cat
+pikachu
